@@ -1,0 +1,14 @@
+aulas
+CEN0336_2025_11242428_Python04
+Desktop
+Documents
+Downloads
+Games
+Music
+Pictures
+problemsets
+Public
+Templates
+test5.txt
+Videos
+virt-machines
